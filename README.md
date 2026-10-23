@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**phlebas0/phlebas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cam Reed
 
-Here are some ideas to get you started:
+Environmental data scientist and analyst. Recently completed an MSc in Environmental Data Science at Durham University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Background
+
+- **2025–2026 | Durham University:** MSc Environmental Data Science
+- **2024–2025 | Unilever:** Environmental Analytics & Insights
+- **2022–2023 | Ferrier Mills:** Data & ESG Analyst
+- **2019–2022 | The Open University:** BA (Hons) Business Management
+
+#### Technical Stack
+
+- **Languages:** Python (NumPy, pandas, scikit-learn, ArcPy), R, Rust, SQL
+- **Tools & Methods:** ArcGIS, QGIS, RustGIS, LaTeX, Git, CDO/NetCDF
