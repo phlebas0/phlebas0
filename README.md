@@ -13,4 +13,9 @@ Environmental data scientist and analyst. Recently completed an MSc in Environme
 #### Technical Stack
 
 - **Languages:** Python (NumPy, pandas, scikit-learn, ArcPy), R, Rust, SQL
-- **Tools & Methods:** ArcGIS, QGIS, RustGIS, LaTeX, Git, CDO/NetCDF
+- **Tools:** ArcGIS, QGIS, RustGIS, Git, CDO/NCO, NetCDF, LaTeX
+
+#### Interests
+I am particularly interested in spatial and environmental applications of machine learning, especially the reliability, uncertainty and generalisability of predictive models, and how these might be better assessed and improved.
+
+I also enjoy writing small, marginally useful pieces of software, often inspired by hobbies or things that have annoyed me.
