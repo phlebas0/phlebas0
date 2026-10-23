@@ -16,4 +16,4 @@
 #### Interests
 I am particularly interested in spatial and environmental applications of machine learning, especially how the reliability and generalisability of predictive models can be evaluated and improved, and how their uncertainty can be more reliably quantified.
 
-I also enjoy writing small, marginally useful pieces of software, often inspired by hobbies or things that have annoyed me.
+I also enjoy creating small, marginally useful pieces of software, often inspired by hobbies or things that have annoyed me, some of which can be found here.
