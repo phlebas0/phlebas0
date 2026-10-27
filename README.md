@@ -15,4 +15,4 @@
 
 #### Other
 
-I am interested in experimenting with other languages, particularly those associated with scientific computing, machine learning and building lightweight utilities. Some that have caught my interest include Rust, Haskell, Elixir, F#, Julia, Fortran and C/C++. Whether I will end up using any of these extensively remains to be seen.
+I am interested in experimenting with other languages, particularly those associated with scientific computing, machine learning, and building lightweight utilities. Some that have caught my interest include Rust, Haskell, Elixir, F#, Julia, Fortran and C/C++. Whether I will end up using any of these extensively remains to be seen.
