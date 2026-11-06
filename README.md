@@ -15,4 +15,5 @@
 
 #### Other
 
-I am interested in experimenting with other languages, particularly those associated with scientific computing, machine learning, and building lightweight utilities. Some that have caught my interest include Rust, Haskell, Elixir, F#, Julia, Fortran and C/C++. Whether I will end up using any of these extensively remains to be seen.
+- I have a strong interest in spatial machine learning, particularly the reliability of predictive performance estimates, the limitations of conventional validation methods, and approaches to improving spatial generalisation, transferability and uncertainty quantification.
+- I am interested in experimenting with myriad languages, particularly those associated with scientific computing, machine learning, and building lightweight utilities. Some that have caught my interest include Rust, Haskell, Elixir, F#, Julia, Fortran and C/C++ (whether I will end up learning and using any of these extensively remains to be seen).
