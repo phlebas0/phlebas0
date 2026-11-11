@@ -12,8 +12,3 @@
 
 - **Languages:** Python _(NumPy, Pandas, scikit-learn, GeoPandas, Rasterio)_, R _(tidyverse, sf, terra, ranger)_, SQL
 - **Tools:** ArcGIS Pro _(ArcPy)_, QGIS, Google Earth Engine (GEE), CDO/NCO, NetCDF, LaTeX, Git, PostgreSQL
-
-#### Other
-
-- I have a strong interest in spatial machine learning, particularly the reliability of predictive performance estimates, the limitations of conventional validation methods, and approaches to improving spatial generalisation, transferability and uncertainty quantification.
-- I am interested in experimenting with myriad languages, particularly those associated with scientific computing, machine learning, and building lightweight utilities. Some that have caught my interest include Rust, Haskell, Elixir, F#, Julia, Fortran and C/C++ (whether I will end up learning and using any of these extensively remains to be seen).
